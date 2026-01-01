@@ -21,6 +21,6 @@ Soy un profesional de la salud apasionado por la transformación digital, con ba
 
 ---
 
-### 📊 Mis Estadísticas
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Luis-Cabrera-healthtech&show_icons=true&theme=radical)
+<p align="center">
+  <i>"La tecnología al servicio de la salud."</i> 🏥✨
+</p>
