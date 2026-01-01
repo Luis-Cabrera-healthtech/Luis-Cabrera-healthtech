@@ -29,7 +29,7 @@ Comparto utilidades básicas para la comunidad de salud digital, enfocadas en la
 
 **2. Proyecto Comercial (En Desarrollo Privado)**
 Actualmente estoy diseñando la arquitectura de una nueva solución SaaS para Imagenología.
-* 🏗️ **[Nombre Clave: Nexum RIS]**: Plataforma integral para la gestión de flujos de trabajo en servicios de imagenología.
+* 🏗️ **[iDIAG RIS/PACS]**: Plataforma integral para la gestión de flujos de trabajo en servicios de imagenología.
 * *Estado:* Prototipado y Arquitectura de Backend.
 * *Tecnologías:* Python, Django/FastAPI, HL7 Integration Engine.
 * *Nota: Este repositorio es privado por protección de Propiedad Intelectual.*
