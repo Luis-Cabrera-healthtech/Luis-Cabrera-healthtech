@@ -21,6 +21,15 @@ Soy un profesional de la salud apasionado por la transformación digital, con ba
 
 ---
 
+### 🚀 Proyectos en Desarrollo
+
+Currently building: **[Nombre de tu Proyecto, ej: HealthFlow RIS]**
+> Plataforma integral SaaS para gestión de flujos RIS/PACS y post-proceso de imágenes.
+> *Estado: Desarrollo Privado (Proprietary Software)*
+> *Stack: Python, DICOM standards, HL7 Integration.*
+
+---
+
 <p align="center">
   <i>"La tecnología al servicio de la salud."</i> 🏥✨
 </p>
