@@ -21,12 +21,18 @@ Soy un profesional de la salud apasionado por la transformación digital, con ba
 
 ---
 
-### 🚀 Proyectos en Desarrollo
+### 🚀 Proyectos y Desarrollo
 
-Currently building: **[Nombre de tu Proyecto, ej: HealthFlow RIS]**
-> Plataforma integral SaaS para gestión de flujos RIS/PACS y post-proceso de imágenes.
-> *Estado: Desarrollo Privado (Proprietary Software)*
-> *Stack: Python, DICOM standards, HL7 Integration.*
+**1. Herramientas Open Source (Público)**
+Comparto utilidades básicas para la comunidad de salud digital, enfocadas en la manipulación de datos y estándares.
+* 📂 [Scripts-Gestion-Salud](https://github.com/Luis-Cabrera-healthtech/Scripts-Gestion-Salud): Colección de scripts en Python para parsing de fechas y lectura de metadatos DICOM.
+
+**2. Proyecto Comercial (En Desarrollo Privado)**
+Actualmente estoy diseñando la arquitectura de una nueva solución SaaS para Imagenología.
+* 🏗️ **[Nombre Clave: Nexum RIS]**: Plataforma integral para la gestión de flujos de trabajo en servicios de imagenología.
+* *Estado:* Prototipado y Arquitectura de Backend.
+* *Tecnologías:* Python, Django/FastAPI, HL7 Integration Engine.
+* *Nota: Este repositorio es privado por protección de Propiedad Intelectual.*
 
 ---
 
